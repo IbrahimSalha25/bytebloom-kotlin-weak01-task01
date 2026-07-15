@@ -70,8 +70,8 @@ fun main() {
 
     println("-*-*-*-* Problem 05  *-*-*-*-")
 
-    val ids = intArrayOf(2, 5, 8, 12, 16, 23, 38)
-    binarySearch(ids, 16)
+    val ids = intArrayOf(2, 63, 500 ,64,59,525,525, 12, 64, 23, 38)
+    binarySearch(ids, 64)
 
     println("Time Complexity: O(log n)")
 }
